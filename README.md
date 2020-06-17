@@ -4,6 +4,8 @@
 
 Seja bem-vindo a live de Python Para Iniciantes, por aqui fazemos live semanalmente no canal da Twitch mostrando conceitos básicos de lógica de programação e Python para quem está começando neste mundo.
 
+[As lives acontecem lá no meu canal da Twitch](https://www.twitch.tv/caveiradev)
+
 ## Setup Inicial
 
 1. [Instale o Python](https://www.python.org/downloads/)
